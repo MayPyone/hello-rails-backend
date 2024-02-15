@@ -79,7 +79,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```sh
-  cd Budget
+  cd hello-rails-backend
   git clone https://github.com/MayPyone/hello-rails-backend.git
 ```
 
